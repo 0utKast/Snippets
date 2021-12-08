@@ -10,6 +10,6 @@ int main()
 {
     setlocale(LC_ALL, "es_ES.UTF-8");
 
-    std::cout << "Hello World!\n";
+    std::cout << "Hola Mundo\n";
 }
 
